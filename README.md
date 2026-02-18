@@ -36,6 +36,8 @@ and the user-id acts as the means to transfer money..
 
 4. enter pin to complete transfer 
 
+5. select 5 to view the computer details the amount sent will be added to the computer balance..
+
 
 #how to run..
 In the terminal input (python bank_main.py)
