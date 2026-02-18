@@ -1,17 +1,20 @@
-git remote add origin https://github.com/miraclesoffice97-stack/CLI-BANK_PROJECT-SIMULATION-PRAC.git
-git branch -M main
-git push -u origin main# CLI-BANK_PROJECT-SIMULATION-PRAC
-A CLI bank simulation program 
+
+
+ #CLI-BANK_PROJECT-SIMULATION-PRAC
+
+A CLI bank simulation program ...
+
+beginner practical..
 
 🔰
-#How it works...
+##How it works...
 1. create account firstly..👤
 
 2. after account creation select enter 2 and input pin to view your dashboard or home page...
 
 3. in your dashboard you will view your user ID, available funds and user name..
 
-4. Transaction is only between you and the computer..
+4. Transaction is only between the user and the computer.. computer id for transfer (800)..
 
 5. The user pin created during account creation is always required for any thing...
 
@@ -19,7 +22,7 @@ A CLI bank simulation program
 
 
 
-#How to transfer money..
+##How to transfer money..
 
 only between the user and the computer.
 
@@ -36,3 +39,4 @@ and the user-id acts as the means to transfer money..
 
 #how to run..
 In the terminal input (python bank_main.py)
+
