@@ -1,13 +1,14 @@
 
 
- #CLI-BANK_PROJECT-SIMULATION-PRAC
+# CLI-BANK_PROJECT-SIMULATION-PRAC
 
 A CLI bank simulation program ...
 
 beginner practical..
 
 🔰
-##How it works...
+## How it works
+
 1. create account firstly..👤
 
 2. after account creation select enter 2 and input pin to view your dashboard or home page...
@@ -22,7 +23,7 @@ beginner practical..
 
 
 
-##How to transfer money..
+## How to transfer money..
 
 only between the user and the computer.
 
@@ -39,6 +40,9 @@ and the user-id acts as the means to transfer money..
 5. select 5 to view the computer details the amount sent will be added to the computer balance..
 
 
-#how to run..
+## how to run..
 In the terminal input (python bank_main.py)
+
+## Author
+Miracle DC.. 👤
 
